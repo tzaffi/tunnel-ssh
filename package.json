@@ -29,7 +29,8 @@
     "chai": "3.5.0",
     "eslint": "^3.2.2",
     "eslint-config-xo": "^0.15.3",
-    "mocha": "^3.0.2"
+    "mocha": "^3.0.2",
+    "mssql": "^3.3.0"
   },
   "eslintConfig": {
     "extends": "xo",
